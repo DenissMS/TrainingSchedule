@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<UsersDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.cpandl.com">
+  <Users>
+    <User Id="0">
+      <ScheduledTrainings>
+      </ScheduledTrainings>
+      <Name>Иван</Name>
+      <Weight>67</Weight>
+      <Height>181</Height>
+      <WeightStatistics>
+        <Record Date="2014-06-24T18:50:15.4226095+03:00" Weight="73" />
+        <Record Date="2014-06-24T19:01:07.837478+03:00" Weight="71" />
+        <Record Date="2014-06-24T20:04:41.6229415+03:00" Weight="67" />
+      </WeightStatistics>
+    </User>
+  </Users>
+</UsersDatabase>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<UsersDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.cpandl.com">
+  <Users>
+    <User Id="0">
+      <ScheduledTrainings>
+        <Training>
+          <Info>
+            <Type>Cardio</Type>
+            <Exercises>
+              <Exercise Name="Бег" Type="Aerobic">
+                <MuscleGroup>Feet</MuscleGroup>
+                <NumberOfRepetitions>3</NumberOfRepetitions>
+                <NumberOfApproaches>3</NumberOfApproaches>
+              </Exercise>
+              <Exercise Name="Аэробика" Type="Aerobic">
+                <MuscleGroup>All</MuscleGroup>
+                <NumberOfRepetitions>3</NumberOfRepetitions>
+                <NumberOfApproaches>4</NumberOfApproaches>
+              </Exercise>
+              <Exercise Name="Йога" Type="Flexibility">
+                <MuscleGroup>Feet</MuscleGroup>
+                <NumberOfRepetitions>7</NumberOfRepetitions>
+                <NumberOfApproaches>5</NumberOfApproaches>
+              </Exercise>
+              <Exercise Name="Слайд-аэробика" Type="Aerobic">
+                <MuscleGroup>All</MuscleGroup>
+                <NumberOfRepetitions>3</NumberOfRepetitions>
+                <NumberOfApproaches>5</NumberOfApproaches>
+              </Exercise>
+              <Exercise Name="Джоггинг" Type="Aerobic">
+                <MuscleGroup>Feet</MuscleGroup>
+                <NumberOfRepetitions>6</NumberOfRepetitions>
+                <NumberOfApproaches>5</NumberOfApproaches>
+              </Exercise>
+              <Exercise Name="Интервальные тренировки" Type="Aerobic">
+                <MuscleGroup>Feet</MuscleGroup>
+                <NumberOfRepetitions>3</NumberOfRepetitions>
+                <NumberOfApproaches>5</NumberOfApproaches>
+              </Exercise>
+              <Exercise Name="Скипинг" Type="Circuit">
+                <MuscleGroup>Feet</MuscleGroup>
+                <NumberOfRepetitions>2</NumberOfRepetitions>
+                <NumberOfApproaches>5</NumberOfApproaches>
+              </Exercise>
+            </Exercises>
+          </Info>
+          <Date>2014-06-25T00:00:00</Date>
+        </Training>
+      </ScheduledTrainings>
+      <Name>Иван</Name>
+      <Weight>67</Weight>
+      <Height>181</Height>
+      <WeightStatistics>
+        <Record Date="2014-06-24T18:50:15.4226095+03:00" Weight="73" />
+        <Record Date="2014-06-24T19:01:07.837478+03:00" Weight="71" />
+        <Record Date="2014-06-24T20:04:41.6229415+03:00" Weight="67" />
+      </WeightStatistics>
+    </User>
+  </Users>
+</UsersDatabase>

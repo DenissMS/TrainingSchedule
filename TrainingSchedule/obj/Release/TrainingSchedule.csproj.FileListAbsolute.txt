@@ -1,0 +1,17 @@
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Release\TrainingSchedule.exe.config
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Release\TrainingSchedule.exe
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Release\TrainingSchedule.pdb
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.ExerciseEditForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.ProfileEditForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.Forms.UserWeightStatisticsForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.Properties.Resources.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.TrainingEditForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.TrainingScheduleForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.UserListForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.csproj.GenerateResource.Cache
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.exe
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Release\TrainingSchedule.pdb
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Release\Exercises.xml
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Release\Trainings.xml
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Release\Users.xml

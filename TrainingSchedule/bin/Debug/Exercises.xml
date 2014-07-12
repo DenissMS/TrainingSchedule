@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<ExercisesDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.cpandl.com">
+  <Exercises>
+    <Exercise Name="Бег" Type="Aerobic">
+      <MuscleGroup>Feet</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>3</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Аэробика" Type="Aerobic">
+      <MuscleGroup>All</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>4</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Йога" Type="Flexibility">
+      <MuscleGroup>Feet</MuscleGroup>
+      <NumberOfRepetitions>7</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Слайд-аэробика" Type="Aerobic">
+      <MuscleGroup>All</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Скипинг" Type="DynamicStrength">
+      <MuscleGroup>Feet</MuscleGroup>
+      <NumberOfRepetitions>2</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Джоггинг" Type="Aerobic">
+      <MuscleGroup>Feet</MuscleGroup>
+      <NumberOfRepetitions>6</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Интервальные тренировки" Type="Aerobic">
+      <MuscleGroup>Feet</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Бодибилдинг" Type="DynamicStrength">
+      <MuscleGroup>All</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Пауэрлифтинг" Type="DynamicStrength">
+      <MuscleGroup>Feet</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Табата" Type="DynamicStrength">
+      <MuscleGroup>All</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Пилоксинг" Type="Aerobic">
+      <MuscleGroup>All</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Тяжелая атлетика" Type="DynamicStrength">
+      <MuscleGroup>All</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+    <Exercise Name="Шейпинг" Type="Circuit">
+      <MuscleGroup>All</MuscleGroup>
+      <NumberOfRepetitions>3</NumberOfRepetitions>
+      <NumberOfApproaches>5</NumberOfApproaches>
+    </Exercise>
+  </Exercises>
+</ExercisesDatabase>

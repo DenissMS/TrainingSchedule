@@ -1,0 +1,17 @@
+c:\users\kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Debug\TrainingSchedule.exe.config
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Debug\TrainingSchedule.exe
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Debug\TrainingSchedule.pdb
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.Properties.Resources.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.TrainingScheduleForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.csproj.GenerateResource.Cache
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.exe
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.pdb
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.ProfileEditForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.UserListForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.TrainingEditForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.ExerciseEditForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\obj\Debug\TrainingSchedule.Forms.UserWeightStatisticsForm.resources
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Debug\Exercises.xml
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Debug\Trainings.xml
+C:\Users\Kerat\documents\visual studio 2013\Projects\TrainingSchedule\TrainingSchedule\bin\Debug\Users.xml
